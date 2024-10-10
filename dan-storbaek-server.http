@@ -1,0 +1,6 @@
+@dan_storbaek_server_HostAddress = http://localhost:5066
+
+GET {{dan_storbaek_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
